@@ -3,6 +3,8 @@
 
 [简体中文](./README_zh.md)
 
+[Stable Diffusion v3.5原理介绍](https://blog.csdn.net/sinat_16020825/article/details/146406963)
+
 ## Intro
 
 This is the training code for fine-tune Stable Diffusion v3.5. The script is adapted from [the diffusers library](https://github.com/huggingface/diffusers/).
