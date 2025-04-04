@@ -3,6 +3,8 @@
 
 [English](./README.md)
 
+[Stable Diffusion v3.5原理介绍](https://blog.csdn.net/sinat_16020825/article/details/146406963)
+
 ## 简介
 
 本项目是用于微调 Stable Diffusion v3.5 的训练代码，基于 [diffusers库](https://github.com/huggingface/diffusers/) 进行适配开发。
